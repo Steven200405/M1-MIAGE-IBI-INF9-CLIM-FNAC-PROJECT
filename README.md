@@ -20,6 +20,7 @@ On sépare également le prix avant et après réduction, et on calcule le taux 
 
 Création de plusieurs représentations:
 - Histogramme pour regarder le prix médian entre les produits sponsorisés vs non sponsorisés
+- Nauge de points montrant la relation entre le prix après réduction des produits et le taux de réduction
 
 ## Conclusion
 
