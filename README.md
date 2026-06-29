@@ -28,4 +28,5 @@ Ainsi, nous avons procédé à une extraction des produits disponibles dans le c
 Après une phase de nettoyage et calcul de données pour rendre les informations exploitables, nous nous sommes focalisées sur le prix des produits, s'ils sont sponsorisés, en promotion ou un bon plan.
 Une conclusion faite est "les produits sponsorisés sont plus vendus plus chers que les produits non sponsorisés en analysant le prix médian".
 
-Nous avons également cherché à savoir si plus un produit est cher plus sa réduction est faible et plus un produit en réduction est pas cher puis sa réduction est grande. Après une visualiastion de la relation entre le prix de référence et le taux de réduction, nous avons pas identifié de corrélation entre ces deux facteurs.
+Nous avons également cherché à savoir si plus un produit est cher plus sa réduction est faible et plus un produit en réduction est pas cher puis sa réduction est grande. Après une visualisation de la relation entre le prix de référence et le taux de réduction, nous avons pas identifié de corrélation entre ces deux facteurs.
+
